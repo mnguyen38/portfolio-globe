@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-three/drei": "^10.7.6",
     "@react-three/fiber": "^9.3.0",
+    "@tailwindcss/vite": "^4.1.13",
     "@types/three": "^0.180.0",
     "framer-motion": "^12.23.15",
     "gsap": "^3.13.0",
@@ -19,6 +20,7 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-globe.gl": "^2.36.0",
+    "react-use": "^17.6.0",
     "three": "^0.180.0"
   },
   "devDependencies": {

@@ -1,0 +1,2 @@
+# Download earth texture (run in project root)
+curl -o public/textures/earth-night.jpg https://unpkg.com/three-globe/example/img/earth-night.jpg
