@@ -50,7 +50,7 @@ const GlobeComponent = () => {
     <div className="w-full h-screen bg-black">
       <Globe
         ref={globeEl}
-        globeImageUrl="/textures/globe.jpg"
+        globeImageUrl="/textures/earth-night.jpg"
         backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
         
         // Points (locations)

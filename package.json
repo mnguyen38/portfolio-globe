@@ -13,7 +13,10 @@
     "@react-three/drei": "^10.7.6",
     "@react-three/fiber": "^9.3.0",
     "@tailwindcss/vite": "^4.1.13",
+    "@types/geojson": "^7946.0.16",
+    "@types/suncalc": "^1.9.2",
     "@types/three": "^0.180.0",
+    "d3-geo": "^3.1.1",
     "framer-motion": "^12.23.15",
     "gsap": "^3.13.0",
     "lucide-react": "^0.544.0",
@@ -21,7 +24,10 @@
     "react-dom": "^19.1.1",
     "react-globe.gl": "^2.36.0",
     "react-use": "^17.6.0",
-    "three": "^0.180.0"
+    "suncalc": "^1.9.0",
+    "three": "^0.180.0",
+    "three-globe": "^2.44.0",
+    "topojson-client": "^3.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
